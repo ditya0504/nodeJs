@@ -1,0 +1,33 @@
+{
+  "name": "node_tut",
+  "version": "1.0.0",
+  "description": "a node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditya0504/nodeJs.git"
+  },
+  "keywords": [
+    "noode",
+    "js",
+    "code",
+    "step",
+    "line",
+    "by",
+    "line"
+  ],
+  "author": "vikramaditya kumar verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ditya0504/nodeJs/issues"
+  },
+  "homepage": "https://github.com/ditya0504/nodeJs#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
